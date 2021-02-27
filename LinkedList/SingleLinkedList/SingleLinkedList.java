@@ -1,5 +1,6 @@
 package com.ds.linkedlist;
 
+// SingleNode is in DataStructures/LinkedList/Node/SingleNode in github
 import com.ds.nodes.SingleNode;
 
 public class SingleLinkedList<T> {
